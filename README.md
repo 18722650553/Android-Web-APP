@@ -1,2 +1,1 @@
-# Android-
-Android APP 冷启动流程
+# Android 从 Web 唤起 APP
